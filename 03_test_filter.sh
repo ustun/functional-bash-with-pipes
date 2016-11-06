@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo numbers.txt | ./03_filter.sh
+cat numbers.txt | ./03_filter.sh
 
 echo "1
 2

@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo numbers.txt | ./04_reduce.sh
+cat numbers.txt | ./04_reduce.sh
 
-echo numbers.txt | ./04_reduce.sh 10
+cat numbers.txt | ./04_reduce.sh 10
 
 
 echo "1

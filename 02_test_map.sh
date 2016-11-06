@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo numbers.txt | ./02_map.sh
+cat numbers.txt | ./02_map.sh
 
 
 echo "1
